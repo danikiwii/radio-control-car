@@ -34,13 +34,13 @@ Para el diseño del prototipo, he seguido tres enfoques principales:
 
 ## Instrucciones de Impresión
 
-Descargar los archivos de la carpeta STL e imprimir directamente. Yo utilicé, en general, un relleno del 20%. Para piezas sometidas a mayor tensión, como los engranajes y la dirección, aumenté el relleno al 35%.
+Descargar los archivos de la carpeta STL, pasarlos por el slicer colocándolos en la posición conveniente. Yo utilicé, en general, un relleno del 20%. Para piezas sometidas a mayor tensión, como los engranajes y la dirección, aumenté el relleno al 35%.
 
 ![Ensamblaje de solidworks](images/vista%20comleta.png)
 ![Ensamblaje de solidworks](images/plano%20suelo.png)
 ![Transmisión](images/transmisión.png)
 ![batería variador y servo](images/batería%20servo%20variador.png)
 ![Mecanismo rueda delantera](images/soporte%20rueda%20delantera.png)
-![Mecanismo rueda teasera](images/soporte%20rueda%20trasera.png)
+![Mecanismo rueda trasera](images/soporte%20rueda%20trasera.png)
 ![MEcanismo 4 barras de la dirección](images/4%20barras.png)
 ![Foto del prototipo](images/foto%20coche.jpg)
