@@ -37,3 +37,11 @@ Para el diseño del prototipo, he seguido tres enfoques principales:
 Descargar los archivos de la carpeta STL e imprimir directamente. Yo utilicé, en general, un relleno del 20%. Para piezas sometidas a mayor tensión, como los engranajes y la dirección, aumenté el relleno al 35%.
 
 ![Ensamblaje de solidworks](images/vista%20comleta.png)
+![Ensamblaje de solidworks](images/plano%20suelo.png)
+![Ensamblaje de solidworks](images/transmisión.png)
+![Ensamblaje de solidworks](images/batería%20servo%20variador.png)
+![Ensamblaje de solidworks](images/plano%20suelo.png)
+![Ensamblaje de solidworks](images/soporte%20rueda%20delantera.png)
+![Ensamblaje de solidworks](images/soporte%20rueda%20trasera.png)
+![Ensamblaje de solidworks](images/4%20barras.png)
+![Ensamblaje de solidworks](images/foto%20coche.png)
