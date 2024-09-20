@@ -27,12 +27,12 @@ Para el diseño del prototipo, he seguido tres enfoques principales:
 - Ruedas
 - Diferencial
 - 2 ejes cardán
-- Piñón Z10 M0.8
+- Piñón Z11 M0.8
 - 8 rodamientos
 - Varilla roscada M3 y M4
 - Tornillos y tuercas M3
 
 ## Instrucciones de Impresión
 
-Descargar los archivos de la carpeta STL e imprimir directamente. Yo utilicé, en general, un relleno del 20%. Para piezas sometidas a mayor tensión, como los engranajes y la dirección, aumenté el relleno al 50%.
+Descargar los archivos de la carpeta STL e imprimir directamente. Yo utilicé, en general, un relleno del 20%. Para piezas sometidas a mayor tensión, como los engranajes y la dirección, aumenté el relleno al 35%.
 
